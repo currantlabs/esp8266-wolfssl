@@ -20,7 +20,7 @@
  */
 
 #if !defined(WOLFSSL_BIO_INCLUDED)
-    #warning bio.c does not need to be compiled seperatly from ssl.c
+//    #warning bio.c does not need to be compiled seperatly from ssl.c
 #else
 
 /*** TBD ***/
